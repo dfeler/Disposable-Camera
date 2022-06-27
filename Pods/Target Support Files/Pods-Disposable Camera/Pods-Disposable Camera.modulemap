@@ -1,0 +1,6 @@
+framework module Pods_Disposable_Camera {
+  umbrella header "Pods-Disposable Camera-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.2.1)
+  - Twinkle (0.5.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Twinkle (~> 0.5.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Twinkle
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  Twinkle: 6bd04201ee3bf2f5007463b57b7af6e8c948c985
+
+PODFILE CHECKSUM: 8048e4d0ca22ed08ea14fb38c09d3fb78191b39f
+
+COCOAPODS: 1.9.1
